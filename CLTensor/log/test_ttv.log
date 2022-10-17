@@ -1,0 +1,202 @@
++ (( a=0 ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 0 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000500 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 0 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001204 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 1 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000518 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 1 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001217 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 2 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000502 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 2 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001221 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 3 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000514 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 3 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001205 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 4 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000509 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 4 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001165 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 5 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000503 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 5 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001342 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 6 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000504 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 6 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001132 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 7 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000503 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 7 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001374 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 8 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.000506 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 8 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001278 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 9 -t 1
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.003464 s
++ ../build/test/test_tilespatsr_ttv -i ../data/whtdata/10_200000.tns -m 9 -t 64
+input file: ../data/whtdata/10_200000.tns
+load tensor success! 
+order success! 
+tnsPermuteTileSpatsr success! 
+Y_ndims success! 
+tile_num 100000
+tnsVecTilingTileSpatsr success! 
+'tnsNaiveMTTKRPTileSpatsr2' module 1 iters avg time is : 0.001506 s
++ (( a++ ))
++ (( a<10 ))

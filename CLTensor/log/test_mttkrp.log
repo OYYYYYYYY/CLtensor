@@ -1,0 +1,208 @@
++ (( a=0 ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 0 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023841 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023900 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 0 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001668 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016383 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 1 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023686 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023722 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 1 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001417 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016487 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 2 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023751 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023973 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 2 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.000946 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016635 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 3 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023024 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023980 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 3 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001419 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.017267 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 4 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023602 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023786 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 4 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001325 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016471 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 5 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023582 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023865 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 5 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.000877 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016302 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 6 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.022897 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023157 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 6 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001739 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.017011 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 7 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.023586 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.023774 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 7 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001861 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.016857 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 8 -t 1
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.024057 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.024315 s
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 8 -t 64
+input file: ../data/whtdata/10_100000.tns
+从文件中读取稀疏张量 success
+tnsRedimTileSpatsr success
+tnsTilingTileSpatsr success
+tnsRetilingTileSpatsr success
+load compute_U_list success
+'tnsNaiveMTTKRPTileSpatsr2' module 5 iters avg time is : 0.001356 s
+load compute_U_list success
+'tnsOmpMTTKRPTileSpatsr' module 5 iters avg time is : 0.017463 s
++ (( a++ ))
++ (( a<10 ))
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 9 -t 1
+input file: ../data/whtdata/10_100000.tns
+./test_mttkrp.sh: line 8: 55776 Segmentation fault      (core dumped) ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m $a -t 1
++ ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m 9 -t 64
+input file: ../data/whtdata/10_100000.tns
+./test_mttkrp.sh: line 8: 55868 Segmentation fault      (core dumped) ../build/test/test_tilespatsr -i ../data/whtdata/10_100000.tns -m $a -t 64
++ (( a++ ))
++ (( a<10 ))
